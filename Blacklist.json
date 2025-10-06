@@ -1,5 +1,6 @@
 [
   "com.package.name1",
   "com.package.name2",
-  "com.another.package"
+  "com.another.package",
+  "com.riteshsahu.SMSBackupRestore"
 ]
